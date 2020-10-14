@@ -1,0 +1,5 @@
+-m!
+-gB8
+# one sprite 32x32 has 8x8 tiles, so
+-Mw4
+-Mh4
